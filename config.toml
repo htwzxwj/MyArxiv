@@ -8,7 +8,7 @@ category = "cs.CL"
 title = "Computation and Language"
 
 [[sources]]
-limit = 150
+limit = 300
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
